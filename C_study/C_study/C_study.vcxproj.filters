@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="C_1" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include=".c">
+    <ClCompile Include="C_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
